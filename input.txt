@@ -1,0 +1,5 @@
+To count the number of comment lines
+
+/*Comment 1*/
+
+//Comment 2
