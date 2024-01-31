@@ -1,1 +1,0 @@
-Im reading the input from this file and printing it in terminal.
